@@ -1,0 +1,22 @@
+{
+  "name": "English",
+  "version": "1.0.0",
+  "description": "Site for English",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "server"
+  },
+  "repository": {
+    "type": "git", 
+    "url": "English Project Simple"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Rhys",
+  "license": "ISC"
+}
